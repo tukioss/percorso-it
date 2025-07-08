@@ -1,0 +1,7 @@
+Jul  8 18:30:15 server sshd[1234]: Accepted password for tullio from 192.168.1.10 port 22
+Jul  8 18:31:02 server sshd[1238]: Failed password for invalid user admin from 8.8.8.8 port 22
+Jul  8 18:31:15 server sshd[1238]: Failed password for tullio from 8.8.8.8 port 22
+Jul  8 18:32:45 server sshd[1245]: Accepted password for fedez from 10.0.0.5 port 22
+Jul  8 18:33:01 server sshd[1250]: Failed password for root from 203.0.113.24 port 22
+Jul  8 18:33:05 server sshd[1250]: Failed password for root from 203.0.113.24 port 22
+Jul  8 18:34:10 server sshd[1255]: Accepted password for fedez from 192.168.1.100 port 22
