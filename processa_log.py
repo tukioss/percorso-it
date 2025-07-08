@@ -11,6 +11,8 @@ def analizza_file_ip(nome_del_file):
     except FileNotFoundError:
            print(f"ERRORE: Il file '{nome_del_file}' non è stato trovato.")
 print("---Fine analisi ---")
-analizza_file_ip("ips.txt")
+nome_file_utente = input("Inserici il nome del file da processare:")
+analizza_file_ip(nome_file_utente)
+
 
 
