@@ -1,0 +1,5 @@
+INFO 2025-07-08: User 'admin' logged in from 192.168.1.100
+WARNING 2025-07-08: Disk space low on /dev/sda1
+ERROR 2025-07-08: Failed login attempt from 8.8.8.8
+INFO 2025-07-08: Connection established from 10.0.2.15
+ERROR 2025-07-08: Invalid request from 203.0.113.24
