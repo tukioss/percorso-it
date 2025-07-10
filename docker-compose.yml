@@ -1,0 +1,6 @@
+
+services:
+  health-checker:
+    build: .
+    container_name: health_checker_run
+
